@@ -18,7 +18,7 @@ class Solution:
                 
 
 obj=Solution()
-arr =[3,6,8,9,11]
-target=12
+arr =[3,6,8,9,11,45]
+target=44
 res=obj.returnindex(arr,target)        
 print(res)
